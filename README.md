@@ -1,7 +1,7 @@
 <img src="./img/header.jpg" >
 
 ### Hi there 👋
-# My name is HiTham Salim 
+
 <!--
 **HJS-dev/HJS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
